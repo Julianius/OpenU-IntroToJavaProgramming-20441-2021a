@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Tester_11 
+public class BothClassesTest
 {
 	private static int count = 0;
 	private static enum tests {TEST_1, TEST_2};
